@@ -1,0 +1,145 @@
+.avartarSize {
+    width: 55px !important;
+    height: 55px !important;
+}
+
+.star {
+    font-size: 24px;
+}
+
+.lineSpacing{
+    margin-top: 8%;
+}
+
+.userIcon {
+    /* font-size: 35px; */
+    color: #35a0a0d1;
+    margin-top: -35%;
+}
+
+.badgeColor {
+    background: rgb(157,134,203);
+    background: linear-gradient(90deg, rgba(157,134,203,0.9976365546218487) 0%, rgba(113,75,217,1) 41%, rgba(156,96,215,1) 96%);
+    color: white;
+}
+
+.badgeColorQuality {
+    background: lightgray;
+    color: grey;
+    padding: 9px 18px;
+    margin-right: 10px;
+    margin-top: 7%;
+}
+
+.badgeCloseColor {
+    background: #fce4ec !important;
+    color: #ff4081 !important;
+    font-size: 13px;
+}
+
+.badgeOpenColor {
+    background: #E8F5E9 !important;
+    color: #00C853 !important;
+    font-size: 13px;
+}
+
+.cartCard {
+    background: rgb(13,154,211);
+    background: linear-gradient(90deg, rgba(13,154,211,1) 0%, rgba(36,192,217,0.7371323529411764) 100%);
+}
+
+.userCard {
+    background: rgb(253,98,107);
+    background: linear-gradient(90deg, rgba(253,98,107,1) 0%, rgba(248,128,152,0.6446953781512605) 100%);
+}
+
+.growthCard {
+    background: rgb(255,132,10);
+    background: linear-gradient(90deg, rgba(255,132,10,1) 0%, rgba(255,182,32,0.6951155462184874) 100%);
+}
+
+.profitCard {
+    background: rgb(57,183,107);
+    background: linear-gradient(90deg, rgba(57,183,107,1) 0%, rgba(38,217,158,0.4906337535014006) 100%);
+}
+
+.cardIcon{
+    color: white;
+    margin-top: -35%;
+}
+.whiteText {
+    color: white !important;
+}
+
+.textPaddingLeft{
+    padding-left: 12%;
+}
+
+.purpleText {
+    font-size: 18px !important;
+    color: purple;
+    padding-left: 3%;
+}
+
+.orangeText {
+    font-size: 27px !important;
+    color: orangered;
+    padding-left: 3%;
+}
+
+.viewDetailBtn {
+    background: rgb(142,55,167);
+    background: linear-gradient(90deg, rgba(142,55,167,1) 0%, rgba(253,29,29,0.7959558823529411) 50%, rgba(252,176,69,1) 100%);
+    color: white;
+    margin: 0 auto ;
+    display: block;
+    margin-top: 9% !important;
+  
+}
+
+.watchBtn {
+    background: rgb(13,154,211);
+    background: linear-gradient(90deg, rgba(13,154,211,1) 0%, rgba(36,192,217,0.7371323529411764) 100%);
+    color: white;
+    margin: 0 auto ;
+    display: block;
+}
+
+.headPhonesBtn {
+    background: rgb(255,132,10);
+    background: linear-gradient(90deg, rgba(255,132,10,1) 0%, rgba(255,182,32,0.6951155462184874) 100%);
+    color: white;
+    margin: 0 auto ;
+    display: block;
+}
+
+.phoneBtn {
+    background: rgb(253,98,107);
+    background: linear-gradient(90deg, rgba(253,98,107,1) 0%, rgba(248,128,152,0.6446953781512605) 100%);
+    color: white;
+    margin: 0 auto ;
+    display: block;
+}
+
+.btn{
+    border-color: transparent !important;
+    color: white !important;
+    border-width: 0;
+}
+
+.centerText {
+    font-size: 24px;
+    margin-top: 3%;
+    text-align: center !important;
+}
+
+.cardCenterText {
+    text-align: center !important;
+    margin-top: 7% !important;
+}
+
+.textCenter {
+    text-align: center !important;
+    color: white !important;
+    font-weight: 600;
+}
